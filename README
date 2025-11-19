@@ -1,0 +1,26 @@
+📊 Análise Imediata de Biomassa — Proximate Analysis of Biomass
+🇵🇹 Explicação Breve
+
+Este repositório reúne o código, os dados e os gráficos referentes à análise imediata de biomassa que realizei.
+Inclui:
+
+Cálculo do teor de matéria volátil, teor de cinzas e carbono fixo;
+
+Limpeza, organização e tratamento dos dados em Python;
+
+Geração automática de gráficos e métricas principais.
+
+O objetivo é apresentar os resultados da análise de forma clara, simples e reprodutível, facilitando futuras actualizações e estudos relacionados com biomassa para fins energéticos.
+
+🇬🇧 Short Explanation
+
+This repository contains the code, data, and graphs from the proximate analysis of biomass that I performed.
+It includes:
+
+Calculation of volatile matter, ash content, and fixed carbon;
+
+Data cleaning, organisation, and processing in Python;
+
+Automatic generation of plots and key metrics.
+
+The goal is to present the analysis results in a clear, simple, and reproducible way, enabling future updates and research related to biomass for energy applications.
